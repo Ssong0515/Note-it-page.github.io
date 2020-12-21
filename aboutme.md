@@ -10,7 +10,7 @@ subtitle: Clean&powerful calendar notes
 
 ● Automatic linkage with Cloud Kit
  
-■ Sticker UI
+*■ Sticker UI*
 
 #. Design that can be planned and completed as if a sticker had been removed
  
