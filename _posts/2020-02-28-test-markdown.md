@@ -1,78 +1,41 @@
 ---
 layout: post
-title: Sample blog post22
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Privacy policy
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+## 개인 정보 보호 정책
 
-**Here is some bold text**
+### 1. 개인 정보 처리의 목적, 다음과 같은 목적으로 개인 정보를 처리하며 다른 목적으로 사용하지 않습니다.
+- 고객의 데이터는 사용자 만 볼 수 있으며 개인의 동의 없이는 다른 목적으로 사용되지 않습니다.
 
-## Here is a secondary heading
+### 2. 개인 정보의 처리 및 보유 기간
+- 고객의 데이터는 고객 개인 공간(기기 또는 클라우드)에만 저장 되며, 이외의 곳에 보관 하지 않습니다.
 
-Here's a useless table:
+### 3. 데이터 주체 및 법정 대리인의 권리와 의무 및 행사 방법 개인 데이터 주체로서 다음과 같은 권리를 행사할 수 있습니다.
+① 정보 주체는 언제든지 '애완 동물 대화'와 관련하여 개인 정보를 보호 할 권리를 행사할 수 있습니다.
+1. 개인 정보 접근 요청
+2. 에러시 정정 요청
+3. 요청 삭제
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### 4. 개인 정보 파기는 개인 정보 처리 목적이 달성 될 때 지체없이 개인 정보를 파기합니다. 파기 절차, 마감일 및 방법은 다음과 같습니다.
+- 고객의 데이터는 고객 개인 공간(기기 또는 클라우드)에만 저장 되며, 이외의 곳에 보관 하지 않습니다.
 
+### 5. 개인 정보 자동 수집의 설치, 운영 및 거부에 관한 사항
+데이터 주체의 사용 정보를 자주 저장하고 검색하는 '쿠키'를 사용하지 않습니다.
 
-How about a yummy crepe?
+### 6. 개인 정보 문의
+- 정보 주체는 서비스 (또는 비즈니스) 사용으로 인해 발생하는 모든 개인 정보 관련 문의, 불만 및 구제 조치에 대해 개인 정보 보호 책임자에게 문의 할 수 있습니다.
+담당자 : 송은석
+이메일 : eunseok@icloud.com
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+### 7. 개인 정보 보호 정책 변경
+① 본 개인 정보 보호 정책은 발효 일부터 적용됩니다. 법률에 따라 추가, 삭제 또는 수정이있을 경우 변경 7 일 전에 통지 할 것입니다.
 
-It can also be centered!
+### 8. 개인 정보의 안전을 보장하기위한 조치
+개인 정보 보호법 제 29 조에 따라 안전을 보장하기 위해 필요한 기술 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+### 9. 구글 사용자에 대한 개인정보 정책
+- 구글 캘린더 사용은 '캘린더 목록 및 이벤트 정보'를 조회 및 가져오는 데에만 사용 됩니다
+- 노트잇은 구글 사용자 개인정보에 대해 아래 [구글 개인정보 정책](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)에 동의합니다
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
