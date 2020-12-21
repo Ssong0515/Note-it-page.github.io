@@ -37,5 +37,5 @@ We do not use'cookies', which frequently store and retrieve data subject usage i
 
 ### 9. Privacy Policy for Google Users
 - Use of Google Calendar is only used to retrieve and retrieve'calendar list and event information'
-- Note-It agrees to the following [Google Privacy Policy] (https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) for Google user personal information
+- Note-It agrees to the following [Google Privacy Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) for Google user personal information
 
