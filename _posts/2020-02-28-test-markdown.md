@@ -4,38 +4,38 @@ title: Privacy policy
 comments: true
 ---
 
-## 개인 정보 보호 정책
+## Privacy Policy
 
-### 1. 개인 정보 처리의 목적, 다음과 같은 목적으로 개인 정보를 처리하며 다른 목적으로 사용하지 않습니다.
-- 고객의 데이터는 사용자 만 볼 수 있으며 개인의 동의 없이는 다른 목적으로 사용되지 않습니다.
+### 1. Purpose of processing personal information, we process personal information for the following purposes and do not use it for other purposes.
+-Customer's data can only be viewed by the user and is not used for other purposes without personal consent.
 
-### 2. 개인 정보의 처리 및 보유 기간
-- 고객의 데이터는 고객 개인 공간(기기 또는 클라우드)에만 저장 되며, 이외의 곳에 보관 하지 않습니다.
+### 2. Processing and retention period of personal information
+-Customer's data is stored only in the customer's personal space (device or cloud), and is not stored elsewhere.
 
-### 3. 데이터 주체 및 법정 대리인의 권리와 의무 및 행사 방법 개인 데이터 주체로서 다음과 같은 권리를 행사할 수 있습니다.
-① 정보 주체는 언제든지 '애완 동물 대화'와 관련하여 개인 정보를 보호 할 권리를 행사할 수 있습니다.
-1. 개인 정보 접근 요청
-2. 에러시 정정 요청
-3. 요청 삭제
+### 3. Rights and obligations of data subjects and legal representatives and how to exercise them As a personal data subject, you can exercise the following rights.
+① The data subject can exercise the right to protect personal information in relation to'pet conversation' at any time.
+1. Request for access to personal information
+2. Request for correction in case of error
+3. Delete request
 
-### 4. 개인 정보 파기는 개인 정보 처리 목적이 달성 될 때 지체없이 개인 정보를 파기합니다. 파기 절차, 마감일 및 방법은 다음과 같습니다.
-- 고객의 데이터는 고객 개인 공간(기기 또는 클라우드)에만 저장 되며, 이외의 곳에 보관 하지 않습니다.
+### 4. Destruction of personal information destroys personal information without delay when the purpose of processing personal information is achieved. The destruction procedures, deadlines and methods are as follows.
+-Customer's data is stored only in the customer's personal space (device or cloud), and is not stored elsewhere.
 
-### 5. 개인 정보 자동 수집의 설치, 운영 및 거부에 관한 사항
-데이터 주체의 사용 정보를 자주 저장하고 검색하는 '쿠키'를 사용하지 않습니다.
+### 5. Matters concerning the installation, operation and rejection of automatic collection of personal information
+We do not use'cookies', which frequently store and retrieve data subject usage information.
 
-### 6. 개인 정보 문의
-- 정보 주체는 서비스 (또는 비즈니스) 사용으로 인해 발생하는 모든 개인 정보 관련 문의, 불만 및 구제 조치에 대해 개인 정보 보호 책임자에게 문의 할 수 있습니다.
-담당자 : 송은석
-이메일 : eunseok@icloud.com
+### 6. Personal information inquiry
+-The data subject may contact the person in charge of personal information protection for all personal information related inquiries, complaints and remedies arising from the use of the service (or business).
+Person in charge: Song Eun-seok
+Email: eunseok@icloud.com
 
-### 7. 개인 정보 보호 정책 변경
-① 본 개인 정보 보호 정책은 발효 일부터 적용됩니다. 법률에 따라 추가, 삭제 또는 수정이있을 경우 변경 7 일 전에 통지 할 것입니다.
+### 7. Changes to Privacy Policy
+① This privacy policy is applied from the effective date. If there are any additions, deletions or modifications as required by law, we will notify you 7 days prior to the change.
 
-### 8. 개인 정보의 안전을 보장하기위한 조치
-개인 정보 보호법 제 29 조에 따라 안전을 보장하기 위해 필요한 기술 
+### 8. Measures to ensure the safety of personal information
+Skills required to ensure safety in accordance with Article 29 of the Personal Information Protection Act
 
-### 9. 구글 사용자에 대한 개인정보 정책
-- 구글 캘린더 사용은 '캘린더 목록 및 이벤트 정보'를 조회 및 가져오는 데에만 사용 됩니다
-- 노트잇은 구글 사용자 개인정보에 대해 아래 [구글 개인정보 정책](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)에 동의합니다
+### 9. Privacy Policy for Google Users
+-Use of Google Calendar is only used to retrieve and retrieve'calendar list and event information'
+-Note-It agrees to the following [Google Privacy Policy] (https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) for Google user personal information
 
