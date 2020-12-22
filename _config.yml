@@ -15,7 +15,7 @@ author: Ssong
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+#   Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Privacy policy: "https://ssong0515.github.io/Note-it-page.github.io/2020-12-21-privacy-policy/"
